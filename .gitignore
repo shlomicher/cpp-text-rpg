@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Testing/
+*.o
+*.obj
+*.exe
+*.out
+*.gcda
+*.gcno
+__pycache__/
